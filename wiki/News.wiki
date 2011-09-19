@@ -3,4 +3,4 @@
 
 === Septembre, 19 2011 ===
 
-Added the [http://code.google.com/p/freetype-gl/source/browse/trunk/demo-atb-agg.c demo-atb-agg.c] that allows to play with the different font settings to one tune rendering.
+Added the [http://code.google.com/p/freetype-gl/source/browse/trunk/demo-atb-agg.c demo-atb-agg.c] that allows to play with the different font settings to finely tune rendering.
