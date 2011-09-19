@@ -1,0 +1,16 @@
+#summary Things to do
+
+
+== Short term ==
+
+  * Add an example where a set of fonts are saved as a header file (texture data + font description) so user can just include the file and use the fonts with no dependency at all.
+
+
+== Long term ==
+
+  * Make a full blown OpenGL Terminal (help wanted).
+
+
+== Long Long term ==
+
+  * Provide emacs with a GL backend for proper font rendering and scrolling...
