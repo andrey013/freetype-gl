@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary News
 #labels Featured
 
 === Septembre, 19 2011 ===
