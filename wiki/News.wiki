@@ -3,7 +3,9 @@
 
 === Septembre, 21 2011 ===
 
-Added the makefont.c and demo-makefont.c demos. The make font build a header file with all font information within (texture data, glyphs description with kerning, etc.) such that you can include this header in your program and you have no dependencies at all. See the demo-makefont.c example.
+Added the makefont.c and demo-makefont.c demos. The makefont build a header file with all font information within (texture data, glyphs description with kerning, etc.) such that you can include this header file in your program and you have no dependency at all.
+
+See the demo-makefont.c example. If you're curious, here is what a generated header file looks like: [http://code.google.com/p/freetype-gl/source/browse/trunk/arial-16.h arial-16.h].
 
 
 === Septembre, 19 2011 ===
