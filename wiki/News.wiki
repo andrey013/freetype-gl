@@ -1,6 +1,15 @@
 #summary News
 #labels Featured
 
+=== December 21, 2011 ===
+
+I've been doing heavy code cleanup in order to reduce the internal dependencies. Now, only the vector, texture-atlas and texture-font are needed to put some glyphs in a texture. For the actual display, there is
+no "official" API yet since you're can use different technics as illustrated in the different demos.
+
+I also add a display list demo.
+
+
+
 === Septembre, 21 2011 ===
 
 Added the makefont.c and demo-makefont.c demos. The makefont build a header file with all font information within (texture data, glyphs description with kerning, etc.) such that you can include this header file in your program and you have no dependency at all.
