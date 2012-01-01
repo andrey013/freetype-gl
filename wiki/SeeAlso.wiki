@@ -10,7 +10,7 @@ Link: http://sourceforge.net/projects/ftgl/develop
 
 == Font Stash ==
 
-An ever more minimalistic approach for rendering font in OpenGL using Sean Barret's [http://nothings.org/stb/stb_truetype.h truetype font rasterizer] and Bjoern Hoehrmann's [http://bjoern.hoehrmann.de/utf-8/decoder/dfa/ Flexible and Economical UTF-8 Decoder].
+An ever more minimalistic approach for rendering font in OpenGL using Sean Barret's [http://nothings.org/stb/stb_truetype.h truetype font rasterizer] and Bjoern Hoehrmann's [http://bjoern.hoehrmann.de/utf-8/decoder/dfa/ flexible and economical UTF-8 decoder].
 
 Link: http://digestingduck.blogspot.com/2009/08/font-stash.html
 
