@@ -1,0 +1,15 @@
+#summary Other similar projects
+#labels Featured
+
+
+== FTGL ==
+
+FTGL is a free cross-platform Open Source C++ library that uses Freetype2 to simplify rendering fonts in OpenGL applications. FTGL supports bitmaps, pixmaps, texture maps, outlines, polygon mesh, and extruded polygon rendering modes.
+
+Link: http://sourceforge.net/projects/ftgl/develop
+
+== FreeType on OpenGL ES ==
+
+This project renders fonts using OpenGL ES and the FreeType library. The FreeType library uses font hinting, which makes the fonts look better than your average anti-aliased fonts. This project is primarily designed for the iPhone, however the code is portable and should work on other platforms.
+
+Link:  http://www.codeproject.com/KB/iPhone/iPhoneFreeType.aspx 
