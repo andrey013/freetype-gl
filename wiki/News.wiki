@@ -1,6 +1,13 @@
 #summary News
 #labels Featured
 
+=== January 4, 2011 ===
+
+A new revamped markup demo inspired by the [http://digestingduck.blogspot.com/2009/08/font-stash.html fontstash] screenshot plus underline, over line, background, color, etc.
+
+A new gamma correction demo showing it's influence for light or dark text.
+
+
 === December 21, 2011 ===
 
 I've been doing heavy code cleanup in order to reduce the internal dependencies. Now, only the vector, texture-atlas and texture-font are needed to put some glyphs in a texture. For the actual display, there is
