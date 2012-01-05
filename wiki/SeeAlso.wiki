@@ -14,6 +14,11 @@ An ever more minimalistic approach for rendering font in OpenGL using Sean Barre
 
 Link: http://digestingduck.blogspot.com/2009/08/font-stash.html
 
+=== GLText ===
+
+gltext provides a text-rendering library compatible with modern (core profile) OpenGL implementations.
+
+Link: http://branan.github.com/gltext/
 
 == !FreeType on OpenGL ES ==
 
