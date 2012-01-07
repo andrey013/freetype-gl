@@ -1,6 +1,10 @@
 #summary News
 #labels Featured
 
+=== January 7, 2011 ===
+
+Added glyph outline features.
+
 === January 4, 2011 ===
 
 A new revamped markup demo inspired by the [http://digestingduck.blogspot.com/2009/08/font-stash.html fontstash] screenshot plus underline, over line, background, color, etc.
