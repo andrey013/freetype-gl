@@ -5,7 +5,7 @@
 
   * ~~Add an example where a set of fonts are saved as a header file (texture data + font description) so user can just include the file and use the fonts with no dependency at all.~~ Done !
 
- * Add outline glyphs
+ * ~~Add outline glyphs~~
 
 == Long term ==
 
