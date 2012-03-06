@@ -1,6 +1,10 @@
 #summary News
 #labels Featured
 
+=== March 6, 2012 ===
+
+Added an ansi parsing demo that allow to render ansi sequences (like in a 256 colors ansi terminal).
+
 === February 15, 2012 ===
 
 Cleanup code and added windows DLL for easy build.
