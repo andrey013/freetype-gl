@@ -1,6 +1,10 @@
 #summary News
 #labels Featured
 
+=== May 7, 2012 ===
+
+Big code cleanup and API documentation added.
+
 === March 6, 2012 ===
 
 Added an ansi parsing demo that allow to render ansi sequences (like in a 256 colors ansi terminal).
