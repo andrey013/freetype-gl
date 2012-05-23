@@ -1,4 +1,5 @@
 #summary Documentation.
+#labels Featured
 
 = Documentation =
 
