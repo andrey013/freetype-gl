@@ -1,6 +1,10 @@
 #summary News
 #labels Featured
 
+=== May 22, 2012 ===
+
+[http://freetype-gl.googlecode.com/svn/wiki/doc/index.html Documentation] online
+
 === May 7, 2012 ===
 
 Big code cleanup and API documentation added.
