@@ -1,6 +1,11 @@
 #summary News
 #labels Featured
 
+=== June 19, 2012 ===
+
+Several bug fixes.
+
+
 === May 22, 2012 ===
 
 [http://freetype-gl.googlecode.com/svn/wiki/doc/index.html Documentation] online
