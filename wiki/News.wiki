@@ -1,6 +1,10 @@
 #summary News
 #labels Featured
 
+=== August 14, 2012 ===
+
+Created the gl-3.0 branch to remove deprecated features. Will be the main branch after tests.
+
 === June 19, 2012 ===
 
 Several bug fixes.
