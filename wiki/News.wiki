@@ -1,6 +1,11 @@
 #summary News
 #labels Featured
 
+=== February 20, 2013 ===
+
+Hopefully the gl-3.0 branch should compile fine now.
+
+
 === December 15, 2012 ===
 
 gl-3.0 branch has been fixed but compilation on windows need a few more fix. Testers welcome...
