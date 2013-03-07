@@ -3,7 +3,7 @@
 
 === March 7, 2013 ===
 
-Merge (reintegrate) gl-3.0 into trunk.
+Merged (reintegrate) gl-3.0 into trunk.
 
 
 === February 20, 2013 ===
