@@ -1,6 +1,11 @@
 #summary News
 #labels Featured
 
+=== March 7, 2013 ===
+
+Merge (reintegrate) gl-3.0 into trunk.
+
+
 === February 20, 2013 ===
 
 Hopefully the gl-3.0 branch should compile fine now.
