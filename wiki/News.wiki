@@ -1,6 +1,11 @@
 #summary News
 #labels Featured
 
+=== April 13, 2013 ===
+
+Added some harfbuzz experiments to display all kind of languages.
+
+
 === March 7, 2013 ===
 
 Merged (reintegrate) gl-3.0 into trunk.
