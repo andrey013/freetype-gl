@@ -1,6 +1,14 @@
 #summary News
 #labels Featured
 
+=== May 2, 2013 ===
+
+I published a paper on higher quality text :
+
+Nicolas P. Rougier, Higher Quality 2D Text Rendering, Journal of Computer Graphics Techniques (JCGT), vol. 2, no. 1, 50-64, 2013. Available online http://jcgt.org/published/0002/01/04/
+
+
+
 === April 13, 2013 ===
 
 Added some harfbuzz experiments to display all kind of languages.
